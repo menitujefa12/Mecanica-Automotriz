@@ -1,0 +1,152 @@
+body {
+	background: black;
+	font-size: 16px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+nav {
+	background: red;
+	height: 50px;
+	width: 100%;
+}
+#menu {
+	height: 50px;
+	margin: auto;
+	width: 1000px;
+}
+#bann {
+	background: black;
+	height: 410px;
+	width: 100%;
+}
+#banner {
+	height: 410px;
+	margin: auto;
+	width: 1200px;
+}
+#conte-intro {
+	background: black;
+	height: 410px;
+	margin: auto;
+	width: 1000px;
+}
+#txt-intro1 {
+	background: red;
+	border-radius: 8px;
+	font-size: 1.3em;
+	height: 350px;
+	padding: 30px;
+	width: 730px;
+}
+#txt-intro1:hover {
+	background: red;
+	margin-top: -5px;
+   -webkit-box-shadow: 5px 10px 6px 2px #777;
+   -moz-box-shadow: 5px 10px 6px 2px #777;
+   -o-box-shadow: 5px 10px 6px 2px #777;
+   box-shadow: 5px 10px 6px 2px #777;
+}
+#txt-intro2 {
+	background: red;
+	border-radius: 8px;
+	font-size: 1.3em;
+	height: 350px;
+	padding: 30px;
+	width: 730px;
+}
+#txt-intro2:hover {
+	background: red;
+	margin-top: -5px;
+   -webkit-box-shadow: 5px 10px 6px 2px #777;
+   -moz-box-shadow: 5px 10px 6px 2px #777;
+   -o-box-shadow: 5px 10px 6px 2px #777;
+   box-shadow: 5px 10px 6px 2px #777;
+}
+#txt-intro3 {
+	background: red;
+	border-radius: 8px;
+	font-size: 1.3em;
+	height: 350px;
+	padding: 30px;
+	width: 730px;
+}
+#txt-intro3:hover {
+	background: red;
+	margin-top: -5px;
+   -webkit-box-shadow: 5px 10px 6px 2px #777;
+   -moz-box-shadow: 5px 10px 6px 2px #777;
+   -o-box-shadow: 5px 10px 6px 2px #777;
+   box-shadow: 5px 10px 6px 2px #777;
+}
+#titulo-intro {
+	background: black;
+	border-radius: 8px;
+	color: white;
+	font-size: 1.5em;
+	font-weight: bolder;
+	height: 30px;
+	line-height: 30px;
+	margin: auto;
+	text-align: center;
+	width: 990px;
+}
+#img-intro2 {
+	background: url(../img/intro2.jpg);
+	border: 1px solid;
+	border-color: black;
+	border-radius: 8px;
+	height: 350px;
+	vertical-align: top;
+	width: 250px;
+}
+#txt-intro2, #img-intro2 {
+	display: inline-block;
+	margin-left:5px;
+	margin-top: 5px;
+}
+#titulos {
+	color: black;
+	font-size: 2em;
+	font-weight: bold;
+	height: 250px;
+	line-height: 400px;
+	text-align: right;
+	padding: 0 70px;
+	width: 1000px
+}
+#contexto {
+	color: red;
+	font-size: 1.3em;
+	height: auto;
+	padding: 0 70px;
+	width: 1000px;
+}
+#contexto-2 {
+	color: red;
+	font-size: 1.3em;
+	height: auto;
+	padding: 0 70px;
+	text-align: justify;
+	vertical-align: top;
+	width: 550px;
+}
+#contexto-2, #img1-2 {
+	display: inline-block;
+}
+footer {
+	background: black;
+	color: black;
+	height: 40px;
+	text-align: center;
+	width: 100%;
+}
+footer a {
+	color: black;
+	text-decoration: none;
+}
+footer a:hover {
+	color:black;
+	text-decoration: underline;
+}
